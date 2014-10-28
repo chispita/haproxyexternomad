@@ -1,4 +1,4 @@
-# Configuration of Zaragoza external haproxy
+# Configuration of RedIris external haproxy
 
 **Carlos Val Gascón carlos.val@bifi.es**
 
